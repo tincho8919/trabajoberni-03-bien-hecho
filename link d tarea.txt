@@ -1,1 +1,9 @@
-https://github.com/tincho8919/trabajo-practico-03.git
+https://github.com/tincho8919/trabajoberni-03-bien-hecho.git
+
+1.0: se inicia desde index.html
+1.usuario:mario
+2.clave:1234
+y
+dentro de nustra web en login.html
+1.usuario:pepe
+2.clave:1234
